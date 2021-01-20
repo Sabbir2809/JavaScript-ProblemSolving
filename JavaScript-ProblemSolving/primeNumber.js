@@ -10,5 +10,5 @@ function isPrime(n){
     console.log('Prime Number.')
 }
 
-var result = isPrime(139);
+var result = isPrime(15);
 console.log(result);

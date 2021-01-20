@@ -10,5 +10,5 @@ function isLeapYear(input){
     }
 }
 
-let check = isLeapYear(2021);
+let check = isLeapYear(366);
 console.log(check);

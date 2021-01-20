@@ -1,1 +1,1 @@
-console.log(i, n % i);
+num
